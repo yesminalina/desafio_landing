@@ -63,7 +63,7 @@ section {
 
 .imagen img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 10px; /* imágenes quedan con borde redondeado */
 }
 
 footer {
